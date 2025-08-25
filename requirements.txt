@@ -1,6 +1,18 @@
-customtkinter
-spotipy
-pillow
-requests
-pydub
-playsound
+# Pomodoro Adzan App
+
+A productivity application that combines the Pomodoro Technique with Islamic prayer time reminders. Stay focused during work and never miss your prayer time!
+
+## 📦 Required Libraries
+
+Before running this app, make sure you have installed the following Python libraries:
+
+- `customtkinter`  → Modern GUI for Python
+- `spotipy`        → Spotify API integration
+- `pillow`         → Image processing
+- `requests`       → HTTP requests (for prayer time API)
+- `pydub`          → Audio processing
+- `playsound`      → Play sound files
+
+👉 Install all at once:
+```bash
+pip install customtkinter spotipy pillow requests pydub playsound
