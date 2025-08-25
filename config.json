@@ -1,0 +1,49 @@
+{
+    "work_duration": 30,
+    "break_duration": 5,
+    "long_break_duration": 15,
+    "cycles": 4,
+
+    "sholat": {
+      "countdown_duration": 40,
+      "adzan_audio": {
+        "subuh": "assets/adzan_subuh.mp3",
+        "dzuhur": "assets/adzan.mp3",
+        "ashar": "assets/adzan.mp3",
+        "maghrib": "assets/adzan.mp3",
+        "isya": "assets/adzan.mp3"
+      },
+      "times": {
+        "subuh": "04:50",
+        "dzuhur": "12:05",
+        "ashar": "15:19",
+        "maghrib": "17:56",
+        "isya": "19:06"
+      }
+    },
+
+    "location": {
+      "latitude": -6.4016,
+      "longitude": 106.4870,
+      "method": 2
+    },
+
+    "spotify": {
+      "scopes": [
+        "user-read-playback-state",
+        "user-modify-playback-state",
+        "user-library-read",
+        "user-read-recently-played"
+      ]
+    },
+    
+    "theme": {
+      "bg": "#121212",
+      "card": "#1E1E1E",
+      "primary": "#BB86FC",
+      "accent": "#03DAC6",
+      "danger": "#CF6679"
+    }
+
+
+}

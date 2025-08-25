@@ -1,0 +1,6 @@
+customtkinter
+spotipy
+pillow
+requests
+pydub
+playsound
